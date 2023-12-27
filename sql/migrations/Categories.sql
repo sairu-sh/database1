@@ -4,4 +4,3 @@ CREATE TABLE Categories(
 	Description VARCHAR(100)
 )
 
-SELECT * FROM CATEGORIES;

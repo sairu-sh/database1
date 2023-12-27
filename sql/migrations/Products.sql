@@ -7,4 +7,3 @@ CREATE TABLE Products(
 	Price NUMERIC
 )
 
-SELECT * FROM Products

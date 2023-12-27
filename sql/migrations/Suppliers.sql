@@ -9,4 +9,3 @@ CREATE TABLE Suppliers(
 	Phone VARCHAR(30)
 );
 
-SELECT * FROM SUPPLIERS;

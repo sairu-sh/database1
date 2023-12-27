@@ -5,4 +5,3 @@ CREATE TABLE Orders(
 	OrderDate date,
 	ShipperID INT CONSTRAINT sid REFERENCES Shippers(ShipperID)
 )
-select * from orders

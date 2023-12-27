@@ -3,4 +3,3 @@ CREATE TABLE Shippers(
 	ShipperName CHAR(50),
 	Phone VARCHAR(50)
 );
-SELECT * FROM SHIPPERS;

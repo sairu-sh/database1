@@ -5,4 +5,3 @@ CREATE TABLE OrderDetails(
 	Quantity INT
 )
 
-SELECT * FROM OrderDetails;
